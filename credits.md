@@ -1,5 +1,2 @@
 Credits for my images:
-* [alien] (https://thenounproject.com/term/alien/1820539) by Minh Do
-* [raygun] (https://thenounproject.com/term/raygun/11236/) by Dominik Grob
-* [vr] (https://thenounproject.com/term/vr/2334639) by Mahmure Alp
-* [Human cloning ] (https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
+* winged hussar icon https://www.supercoloring.com/coloring-pages/hussar-wing-and-helmet
