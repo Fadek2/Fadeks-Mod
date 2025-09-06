@@ -21,7 +21,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "Polish Defiance",
+		"uniqueName": "Polish Defiance",
 		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Krakow","Warsaw","Gdansk","Lodz","Wroclaw","Wilno","Bydgoszcz","Poznan","Gdynia",
 			"Katowice","Czestochowa","Lwow","Lublin","Grudziadz","Szczecin","Kielce","Radom","Olsztyn","Bialystok",
